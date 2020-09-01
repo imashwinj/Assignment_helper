@@ -1,14 +1,8 @@
 # Assignment_Writer
-find it at :https://saiteja69.github.io/Assignment_Writer/<br />
-A Vague attempt to convert a great tool to website , couldn't do this without @imlolman help! and swapnil sir's blessings<br />
-V1.0 :<br />
- What works? <br />
-  Small Letters (only)<br />
-V2.0 :<br />
-Capital Letters and numbers!
-V3.0 : <br />
-Everything works! , new handwriting styles added!
-<br />
+find it at :https://imashwinj.github.io/Assignment_helper/<br />
+A Vague attempt to convert a great tool to website and help out many needy students<br />
+So your teacher told you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting<br />
+
 Output:
-![alt text](https://github.com/SaiTeja69/Assignment_Writer/blob/master/output.jpg)
+![alt text](https://github.com/imashwinj/Assignment_helper/blob/master/output.jpg)
 
